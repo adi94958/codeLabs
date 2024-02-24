@@ -1,6 +1,5 @@
-# MDC-100 Series of Codelabs
+Nama : Muhammad Adi Saputera
 
-## Getting Started
+NIM : 221511056
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+KELAS : D3 2B
